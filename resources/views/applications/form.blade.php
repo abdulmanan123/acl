@@ -1,0 +1,6 @@
+@include('applications.form.create.steps.basic_profile')
+@include('applications.form.create.steps.contact_information')
+@include('applications.form.create.steps.registration_information')
+@include('applications.form.create.steps.upload_documents')
+@include('applications.form.create.steps.enrollment_teacher_stats')
+@include('applications.form.create.steps.school_stats')
